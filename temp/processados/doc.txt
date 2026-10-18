@@ -1,0 +1,5 @@
+DOCUMENTAÇÃO PEDAGÓGICA — PROCESSADOS
+
+Esta pasta foi criada para fins pedagógicos e representa um possível local temporário para arquivos que já passaram por determinada etapa de processamento.
+
+Nesta atividade, sua presença também permite observar como o programa se comporta diante de diretórios que podem possuir poucos arquivos ou permanecer vazios.

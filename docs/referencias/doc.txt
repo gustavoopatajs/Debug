@@ -1,0 +1,7 @@
+DOCUMENTAÇÃO PEDAGÓGICA — REFERÊNCIAS
+
+Esta subpasta representa um espaço destinado a materiais de referência relacionados à documentação do projeto.
+
+Em um projeto real, a forma de armazenar esses materiais dependerá das necessidades da equipe.
+
+Nesta atividade, a pasta também contribui para a criação de uma estrutura de diretórios com diferentes níveis de profundidade.

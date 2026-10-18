@@ -1,0 +1,9 @@
+DOCUMENTAÇÃO PEDAGÓGICA — TESTS
+
+A pasta tests normalmente é utilizada para armazenar testes relacionados ao funcionamento do sistema.
+
+Testes ajudam a verificar automaticamente se determinadas partes do programa continuam apresentando o comportamento esperado após alterações no código.
+
+Nesta atividade, não será necessário desenvolver uma estrutura profissional de testes automatizados.
+
+A pasta está presente principalmente para apresentar sua finalidade e compor o projeto utilizado durante a auditoria.

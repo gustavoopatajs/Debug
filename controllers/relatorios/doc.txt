@@ -1,0 +1,7 @@
+DOCUMENTAÇÃO PEDAGÓGICA — RELATÓRIOS
+
+Esta subpasta representa uma possível subdivisão interna da camada de controllers.
+
+Em projetos maiores, uma mesma área pode possuir subdivisões para facilitar a organização de arquivos relacionados.
+
+Ela também foi incluída nesta atividade para demonstrar que uma auditoria de diretórios não pode considerar apenas o primeiro nível de pastas.

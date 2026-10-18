@@ -1,0 +1,5 @@
+DOCUMENTAÇÃO PEDAGÓGICA — EXEMPLOS
+
+Esta pasta representa um nível adicional de organização dos materiais de referência.
+
+Ela foi criada principalmente para fins pedagógicos, permitindo verificar se ferramentas que analisam diretórios conseguem alcançar arquivos localizados em níveis mais profundos da estrutura.

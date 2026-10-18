@@ -1,0 +1,15 @@
+DOCUMENTAÇÃO PEDAGÓGICA — CONTROLLERS
+
+Em muitos projetos, controllers são responsáveis por receber uma solicitação e coordenar quais partes do sistema deverão atuar para atendê-la.
+
+Um controller pode receber informações, solicitar operações a outras partes da aplicação e determinar qual deverá ser a próxima ação do sistema.
+
+EXEMPLO:
+Imagine um sistema acadêmico no qual o usuário solicita o cadastro de um novo aluno. Um controller pode receber os dados informados, encaminhá-los para as partes responsáveis pelo processamento e determinar o que deverá acontecer após o cadastro.
+
+NEM TODA OPERAÇÃO PRECISA DE UM CONTROLLER:
+Uma função auxiliar utilizada apenas para formatar uma data, criar um diretório ou verificar a extensão de um arquivo não representa, por si só, uma operação que precise ser organizada como um controller. Dependendo da arquitetura adotada, esse tipo de recurso poderia estar localizado, por exemplo, entre os utilitários do projeto.
+
+A separação em controllers ajuda a evitar que diferentes responsabilidades do sistema fiquem concentradas no mesmo arquivo.
+
+Esta pasta representa uma organização possível. Nem todo projeto utiliza controllers ou uma pasta com esse nome.

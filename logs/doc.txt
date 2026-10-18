@@ -1,0 +1,9 @@
+DOCUMENTAÇÃO PEDAGÓGICA — LOGS
+
+A pasta logs é destinada aos registros produzidos durante a execução de uma aplicação.
+
+Logs podem registrar o início e o término de operações, avisos, erros e outras informações úteis para acompanhamento e investigação de problemas.
+
+Nesta atividade, o próprio auditor deverá produzir registros de sua execução nesta pasta.
+
+O arquivo de log gerado pelo auditor não deverá ser contabilizado como um arquivo pertencente à estrutura original analisada.

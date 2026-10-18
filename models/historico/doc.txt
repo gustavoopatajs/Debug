@@ -1,0 +1,7 @@
+DOCUMENTAÇÃO PEDAGÓGICA — HISTÓRICO
+
+Esta pasta foi criada principalmente para fins pedagógicos.
+
+Ela representa uma situação em que determinado projeto mantém arquivos antigos ou históricos separados dos arquivos atualmente utilizados.
+
+Sua presença também permite observar o comportamento do auditor em estruturas que possuem mais de um nível de diretórios.

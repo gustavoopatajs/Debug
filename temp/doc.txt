@@ -1,0 +1,7 @@
+DOCUMENTAÇÃO PEDAGÓGICA — TEMP
+
+Uma pasta temporária pode ser utilizada para armazenar arquivos necessários apenas durante determinadas etapas de processamento.
+
+Em aplicações reais, arquivos temporários podem precisar ser removidos, substituídos ou ignorados depois de determinada operação.
+
+Nesta atividade, a pasta temp faz parte da estrutura utilizada para exercitar a auditoria de arquivos.

@@ -1,0 +1,7 @@
+RELATÓRIO DE AUDITORIA
+==================================================
+Quantidade de arquivos: 34
+Tamanho total: 1486647 bytes
+Maior arquivo: c:\Users\USER\Desktop\Debug\docs\referencias\exemplos\base_referencia.dat
+Tamanho do maior arquivo: 819200 bytes
+==================================================

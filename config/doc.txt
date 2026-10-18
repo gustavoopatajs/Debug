@@ -1,0 +1,16 @@
+DOCUMENTAÇÃO PEDAGÓGICA — CONFIG
+
+A pasta config pode ser utilizada para armazenar configurações necessárias ao funcionamento de uma aplicação.
+
+Alguns exemplos são:
+
+- nome ou caminho de arquivos utilizados pelo sistema;
+- endereço de um servidor;
+- nome de um banco de dados;
+- parâmetros utilizados durante a execução;
+- definição de diretórios utilizados pela aplicação;
+- configurações relacionadas à geração de logs.
+
+Imagine, por exemplo, que um sistema precise saber em qual diretório deverá armazenar seus relatórios. Manter essa informação em uma configuração pode evitar que o mesmo caminho precise ser escrito em diferentes partes do código.
+
+Em projetos reais, configurações podem ser armazenadas de diversas maneiras. Esta pasta representa apenas uma dessas possibilidades.

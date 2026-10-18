@@ -1,0 +1,1 @@
+# Funções auxiliares de validação

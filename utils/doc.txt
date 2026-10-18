@@ -1,0 +1,18 @@
+DOCUMENTAÇÃO PEDAGÓGICA — UTILS
+
+A pasta utils pode reunir recursos auxiliares utilizados por diferentes partes de uma aplicação.
+
+Alguns exemplos são:
+
+- funções para criar diretórios;
+- funções para manipular arquivos;
+- validações genéricas;
+- conversões de valores;
+- formatação de textos ou datas;
+- funções auxiliares para trabalhar com caminhos.
+
+Neste exercício, o programa utilizado para gerar a estrutura de pastas e arquivos é um exemplo de recurso com características de um utilitário: sua responsabilidade é auxiliar na preparação da estrutura utilizada pelo restante do sistema.
+
+Por uma decisão de organização desta atividade, esse arquivo permanece fora da pasta utils.
+
+É importante evitar transformar utils em um local para qualquer código que não tenha um destino definido.

@@ -1,0 +1,21 @@
+DOCUMENTAÇÃO PEDAGÓGICA — DOCS
+
+A pasta docs pode armazenar a documentação produzida durante o planejamento, desenvolvimento e manutenção de um projeto.
+
+Durante a Engenharia de Software, por exemplo, a equipe pode produzir materiais para registrar e comunicar como o sistema deverá funcionar.
+
+Entre os documentos que poderiam ser armazenados estão:
+
+- requisitos funcionais e não funcionais;
+- diagramas;
+- fluxos de processos;
+- decisões tomadas durante o projeto;
+- especificações;
+- instruções de utilização;
+- documentação técnica.
+
+Materiais relacionados ao planejamento de um banco de dados também podem fazer parte da documentação do projeto, como representações visuais de entidades, relacionamentos e outras decisões utilizadas na estruturação dos dados.
+
+Isso permite que informações definidas pela equipe durante o desenho dos requisitos, dos fluxos, do software e dos dados não permaneçam apenas na memória dos desenvolvedores.
+
+Nesta atividade, alguns arquivos e subdiretórios também foram colocados nesta pasta para permitir a exploração de uma estrutura com diferentes níveis de profundidade.

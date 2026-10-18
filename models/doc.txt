@@ -1,0 +1,13 @@
+DOCUMENTAÇÃO PEDAGÓGICA — MODELS
+
+Em muitos projetos, models representam dados e conceitos importantes para o funcionamento do sistema.
+
+Um model pode representar, por exemplo, um aluno, usuário, produto, pedido ou disciplina.
+
+As informações utilizadas pelo sistema podem ter diferentes origens. Elas podem vir de um banco de dados, de arquivos como CSV e planilhas ou de outras fontes utilizadas pela aplicação.
+
+Por exemplo, um model de Aluno poderia representar informações como matrícula, nome e curso, independentemente de esses dados terem sido originalmente obtidos de um banco de dados ou de um arquivo.
+
+Dependendo da arquitetura utilizada, os models também podem possuir regras relacionadas aos dados representados.
+
+Esta pasta foi incluída para demonstrar uma possível separação de responsabilidades encontrada em projetos de software.

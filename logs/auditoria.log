@@ -1,0 +1,21 @@
+2026-10-18 13:34:18,801 - INFO - Programa iniciado.
+2026-10-18 13:34:18,801 - INFO - Iniciando análise dos diretórios.
+2026-10-18 13:34:18,801 - INFO - Analisando diretório: c:\Users\USER\Desktop\Debug
+2026-10-18 13:34:18,802 - INFO - Analisando diretório: c:\Users\USER\Desktop\Debug\config
+2026-10-18 13:34:18,802 - INFO - Analisando diretório: c:\Users\USER\Desktop\Debug\controllers
+2026-10-18 13:34:18,802 - INFO - Analisando diretório: c:\Users\USER\Desktop\Debug\controllers\relatorios
+2026-10-18 13:34:18,802 - INFO - Analisando diretório: c:\Users\USER\Desktop\Debug\docs
+2026-10-18 13:34:18,803 - INFO - Analisando diretório: c:\Users\USER\Desktop\Debug\docs\referencias
+2026-10-18 13:34:18,803 - INFO - Analisando diretório: c:\Users\USER\Desktop\Debug\docs\referencias\exemplos
+2026-10-18 13:34:18,803 - INFO - Analisando diretório: c:\Users\USER\Desktop\Debug\logs
+2026-10-18 13:34:18,804 - INFO - Analisando diretório: c:\Users\USER\Desktop\Debug\models
+2026-10-18 13:34:18,804 - INFO - Analisando diretório: c:\Users\USER\Desktop\Debug\models\historico
+2026-10-18 13:34:18,804 - INFO - Analisando diretório: c:\Users\USER\Desktop\Debug\temp
+2026-10-18 13:34:18,804 - INFO - Analisando diretório: c:\Users\USER\Desktop\Debug\temp\processados
+2026-10-18 13:34:18,804 - INFO - Analisando diretório: c:\Users\USER\Desktop\Debug\tests
+2026-10-18 13:34:18,805 - INFO - Analisando diretório: c:\Users\USER\Desktop\Debug\utils
+2026-10-18 13:34:18,805 - INFO - Análise dos diretórios finalizada.
+2026-10-18 13:34:18,805 - INFO - Validações internas concluídas.
+2026-10-18 13:34:18,805 - INFO - Gerando relatório.
+2026-10-18 13:34:18,805 - INFO - Relatório gerado.
+2026-10-18 13:34:18,806 - INFO - Programa finalizado com sucesso.
